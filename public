@@ -1,0 +1,13 @@
+# TAMAAM
+
+A simple product catalog with search, category filters, and cart persistence using localStorage.
+
+## Features
+- Navigation bar
+- Search bar
+- Category filters (All, Hand Tools, Power Tools)
+- Add to cart with persistence
+
+## How to run
+1. Clone the repository
+2. Open `index.html` in your browser
